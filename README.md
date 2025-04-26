@@ -1,5 +1,10 @@
 # Pico BLE OLED Messenger
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Pico%20W-blue)
+![Language](https://img.shields.io/badge/language-MicroPython-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
 A Bluetooth Low Energy (BLE) text receiver and OLED message scroller for Raspberry Pi Pico W, written in MicroPython.
 
 This project cleanly separates BLE communication and OLED control into modular libraries for easy reuse and extension.
